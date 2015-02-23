@@ -8,7 +8,7 @@ var platino = require('co.lanica.platino');
 function ApplicationWindow() {
 	
 	
-   	var closing = false;											// a flag that ensures closing event is executed only once (Android)
+   	var closing = false;											// closing is a flag that ensures closing event is executed only once (Android)
    	
 	
 	/*
