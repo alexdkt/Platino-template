@@ -2,11 +2,6 @@
  * MAINSCENE.JS
  */
 
-var platino = require('co.lanica.platino');
-var ALmixer = platino.require('co.lanica.almixer');
-var chipmunk = co_lanica_chipmunk2d;
-var v = chipmunk.cpv;
-
 
 function MainScene(window, game) {
 

@@ -2,9 +2,6 @@
  * PLATINO APPLICATIONWINDOW.JS
  */
 
-var platino = require('co.lanica.platino');
-
-
 function ApplicationWindow() {
 	
 	

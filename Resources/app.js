@@ -4,7 +4,9 @@
 
 var platino = require('co.lanica.platino');
 var ALmixer = platino.require('co.lanica.almixer');
-require('co.lanica.chipmunk2d');
+var chipmunk = co_lanica_chipmunk2d;
+var v = chipmunk.cpv;
+
 
 
 
